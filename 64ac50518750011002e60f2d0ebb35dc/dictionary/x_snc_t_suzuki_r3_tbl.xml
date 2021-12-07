@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TBL" max_length="40" name="x_snc_t_suzuki_r3_tbl" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="S01" max_length="40" name="s01" type="string"/>
+    </element>
+</database>
