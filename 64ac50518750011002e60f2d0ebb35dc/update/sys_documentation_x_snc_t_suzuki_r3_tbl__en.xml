@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="TBL" language="en" table="x_snc_t_suzuki_r3_tbl">
+    <sys_documentation element="" label="TBL_1400" language="en" table="x_snc_t_suzuki_r3_tbl">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>TBL</label>
+            <label>TBL_1400</label>
             <language>en</language>
             <name>x_snc_t_suzuki_r3_tbl</name>
-            <plural>TBLs</plural>
+            <plural>TBL_1400s</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2021-12-07 05:17:33</sys_created_on>
             <sys_id>4bec98518750011002e60f2d0ebb3560</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>TBL</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>TBL_1400</sys_name>
             <sys_package display_value="t_suzuki_R3_1207" source="x_snc_t_suzuki_r3">64ac50518750011002e60f2d0ebb35dc</sys_package>
             <sys_policy/>
             <sys_scope display_value="t_suzuki_R3_1207">64ac50518750011002e60f2d0ebb35dc</sys_scope>
             <sys_update_name>sys_documentation_x_snc_t_suzuki_r3_tbl__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2021-12-07 05:17:33</sys_updated_on>
+            <sys_updated_on>2021-12-07 05:39:48</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
